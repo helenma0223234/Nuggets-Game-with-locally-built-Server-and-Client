@@ -1,0 +1,11 @@
+
+log*
+core
+vgcore*
+server
+player
+*.log*
+*.log
+log.out
+log
+log.out*
